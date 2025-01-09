@@ -64,7 +64,7 @@
 
 ## 📫 Let's Connect  
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-avhad)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-avhad-663038238)  
 - 📧 Email: [rohanavhad@gmail.com](mailto:rohanavhad204@gmail.com)  
 
 ---
