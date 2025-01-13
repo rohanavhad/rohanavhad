@@ -1,12 +1,14 @@
+
+
 # Hi there 👋, I'm Rohan Avhad  
-### 🌟 Machine Learning Enthusiast |Aspiring  Developer | Fresher  
+### 🌟 Machine Learning Enthusiast | Aspiring Developer | Fresher  
 
 ---
 
 ## 🚀 About Me  
 
 - 🎓 Currently pursuing my education, with a strong interest in **Machine Learning** and **Software Development**.  
-- 🌱 Continuously learning and enhancing my skills in **Machine Learning,Deep Learning, NLP, and  Development**.  
+- 🌱 Continuously learning and enhancing my skills in **Machine Learning, Deep Learning, NLP, and Development**.  
 - 🧑‍💻 Skilled in **Java**, **Python**, **JavaScript**, **HTML**, and **CSS**.  
 - 🌍 Open to opportunities in **AI, Machine Learning, and Software Development**.  
 
@@ -14,13 +16,13 @@
 
 ## 💼 Projects  
 
-### 🌐 Language Translator  
+### 🌐 VoxLator - Language Translator  
 
 - **Objective**: Build a comprehensive translation system that converts text and voice from English into multiple regional languages, ensuring accessibility and inclusivity.  
 - **Features**:  
   - Translation support for **six regional languages**: Bengali, Tamil, Telugu, Gujarati, Marathi, and Hindi.  
   - Converts **voice to text**, translates it, and provides outputs in both **text and speech** formats.  
-  - Deployed as a **web application** using Flask and a **mobile app** using Flutter for ease of use.  
+  - Deployed as a **web application** using Flask.  
   - Scalable and accurate translations powered by advanced **NLP and deep learning models**.  
 - **Technologies Used**:  
   - **Deep Learning Frameworks**: TensorFlow, PyTorch  
@@ -28,7 +30,7 @@
   - **Natural Language Processing**: Pre-trained models for translation  
   - **Deployment**: Flask for web, Flutter for mobile app  
 
-### 🚨 AI-Powered Criminal and Missing Person Identification, and Police Alert System  
+### 🛖️ AI-Powered Criminal and Missing Person Identification, and Police Alert System  
 
 - **Objective**: Develop a real-time system leveraging **facial recognition technology** and **deep learning** to identify individuals with past criminal records and missing persons.  
 - **Features**:  
@@ -44,7 +46,7 @@
 
 ---
 
-## 🛠️ Skills  
+## 🔧 Skills  
 
 ### Programming Languages:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -60,13 +62,19 @@
 
 ---
 
+## 📊 GitHub Stats  
 
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanavhad&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanavhad&layout=compact&theme=radical)  
 
-## 📫 Let's Connect  
+---
+
+## 📧 Let's Connect  
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-avhad-663038238)  
 - 📧 Email: [rohanavhad@gmail.com](mailto:rohanavhad204@gmail.com)  
 
 ---
 
-⭐️ *Feel free to explore my repositories and connect with me to discuss exciting opportunities in Machine Learning and Software Development!*  
+🌟 *Feel free to explore my repositories and connect with me to discuss exciting opportunities in Machine Learning and Software Development!*  
+
