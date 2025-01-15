@@ -1,5 +1,3 @@
-
-
 # Hi there 👋, I'm Rohan Avhad  
 ### 🌟 Machine Learning Enthusiast | Aspiring Developer | Fresher  
 
@@ -44,6 +42,33 @@
   - **Database**: SQLite for secure and scalable data storage  
   - **Notification Systems**: Twilio for real-time SMS alerts  
 
+
+
+### 🦁 Animal Counting and Detection System  
+
+- **Objective**: Detect and count animals in real-time from live video feeds using deep learning for wildlife monitoring and research.  
+- **Features**:  
+  - Real-time animal detection using deep learning models like YOLO and Faster R-CNN.  
+  - Centroid tracking technique to avoid double-counting animals across frames.  
+  - Scalable for multiple video streams to monitor large wildlife areas.  
+- **Technologies Used**:  
+  - **Deep Learning Frameworks**: TensorFlow, PyTorch  
+  - **Programming**: Python  
+  - **Libraries**: OpenCV, NumPy  
+  - **Database**: SQLite or MySQL (optional for storing counts)  
+  - **Deployment**: Flask-based API (optional for monitoring)
+### 🏏 IPL Score Prediction Model  
+
+- **Objective**: Predict IPL match scores using machine learning models based on historical data and team performance.  
+- **Features**:  
+  - Predicts the final score using key match features such as team performance, overs, wickets, and run rate.  
+  - Data preprocessing and feature engineering for optimal model performance.  
+  - Random Forest regression model used for score prediction.  
+- **Technologies Used**:  
+  - **Machine Learning Framework**: scikit-learn  
+  - **Programming**: Python  
+  - **Data Science Libraries**: pandas, NumPy, matplotlib, seaborn  
+  - **Deployment**: Flask for web app (optional for prediction demo)
 ---
 
 ## 🔧 Skills  
@@ -77,4 +102,3 @@
 ---
 
 🌟 *Feel free to explore my repositories and connect with me to discuss exciting opportunities in Machine Learning and Software Development!*  
-
