@@ -16,7 +16,7 @@
 
 
 
-### 🛖️ AI-Powered Criminal and Missing Person Identification, and Police Alert System  
+### 🛖️ AI-Powered Criminal and Missing Person Identification System  
 
 - **Objective**: Develop a real-time system leveraging **facial recognition technology** and **deep learning** to identify individuals with past criminal records and missing persons.  
 - **Features**:  
